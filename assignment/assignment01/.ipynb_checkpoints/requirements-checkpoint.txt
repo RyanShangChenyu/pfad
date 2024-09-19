@@ -1,0 +1,8 @@
+import requests
+from lxml import html
+import datetime
+import matplotlib.pyplot as plt
+from scraping_utils import get_url, parse  #同文件夹的自义定函数文件，引用的时候不需要路径 只需要文件名
+#get_url 自定义函数负责从网上down下数据   parse 负责解析网站文件的自定义函数
+import numpy as np
+from matplotlib.ticker import FixedLocator, FixedFormatter
