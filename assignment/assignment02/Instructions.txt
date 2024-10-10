@@ -1,0 +1,2 @@
+What it is: This is a Python code that can receive sound from a computer microphone and visualize it
+How to use it: Use Console/Anaconda Promot to run it 
